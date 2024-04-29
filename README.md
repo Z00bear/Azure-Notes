@@ -5,7 +5,7 @@
 ## Content
 
 <!-- no toc -->
-- [AZ-900: Microsoft Azure Fundamentals](#az-900-microsoft-azure-fundamentals)
+- [AZ-900: Microsoft Azure Fundamentals](#az-900)
 
 More to follow...
 
