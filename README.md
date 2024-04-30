@@ -9,16 +9,12 @@
 
 More to follow...
 
-## Symbols
 
-- There are two symbols used throughout the documentation.
 
-  | Symbol | Description |
-  |:------:|-------------|
-  | 💡 | Best practice or special hint for exam |
-  | ❗ | An important limitation, challenge or an exception |
-  | 📝 | Common exam area |
-  | 🤗 | Fact / trivia (most likely unrelated to the exam) |
+## CERTIFICATION
+
+Microsoft Certified: Azure Fundamentals
+Demonstrate foundational knowledge of cloud concepts, core Azure services, plus Azure management and governance features and tools.
 
 ### [AZ-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900): Microsoft Azure Fundamentals
 
