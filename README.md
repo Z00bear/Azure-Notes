@@ -32,8 +32,6 @@ You should have skills and experience working with an area of IT, such as:
 - Database management
 - Software development
 
-You may be eligible for ACE college credit if you pass this certification exam. See ACE college credit for certification exams for details.
-
 ## Skills measured  
 
  - Describe cloud concepts
