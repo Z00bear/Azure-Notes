@@ -42,4 +42,3 @@ You may be eligible for ACE college credit if you pass this certification exam. 
 
 ### [AZ-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900): Microsoft Azure Fundamentals Home Page 
 
-[↑](#content)
